@@ -1,7 +1,7 @@
 
 ---
 
-# README: Optimal Transport Analysis of Dopaminergic Lineage scRNA-seq Data
+# Optimal Transport Analysis of Dopaminergic Lineage scRNA-seq Data
 
 ## Overview
 
