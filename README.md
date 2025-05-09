@@ -5,7 +5,9 @@
 
 ## Overview
 
-This project analyzes the similarity between dopaminergic neuronal populations across genetic backgrounds using **Optimal Transport (OT)**. Specifically, it compares:
+This project analyzes the similarity between dopaminergic neuronal populations across genetic backgrounds using **Optimal Transport (OT)** inspired by the idea of this paper https://www.nature.com/articles/s43586-024-00334-2 
+
+Specifically, it compares:
 
 * **Mutant vs. Isogenic Controls**
 * **Mutant vs. Healthy Controls**
