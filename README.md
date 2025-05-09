@@ -11,7 +11,7 @@ This project analyzes the similarity between dopaminergic neuronal populations a
 * **Mutant vs. Healthy Controls**
 * **Isogenic Controls vs. Healthy Controls**
 
-By applying OT to UMAP embeddings of scRNA-seq data, and weighting cells by quality and cluster size, this approach quantifies how transcriptomic profiles differ due to genetic mutations in **LRRK2**, **GBA1**, and **SNCA**.
+By applying OT to UMAP embeddings of scRNA-seq data, and weighting cells by quality and cluster size, this approach quantifies how transcriptomic profiles differ due to genetic mutations in **LRRK2**, **GBA1**, and **SNCA** with their CRISPR-corrected isogenic lines and healthy controls
 
 ---
 
